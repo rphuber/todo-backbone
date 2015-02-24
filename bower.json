@@ -1,0 +1,21 @@
+{
+  "name": "todo-backbone",
+  "version": "0.0.1",
+  "authors": [
+    "Ryan Huber <ryan.huber@mac.com>"
+  ],
+  "description": "Todo App written in Backbone.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "~1.8.2",
+    "jquery": "~2.1.3"
+  }
+}
